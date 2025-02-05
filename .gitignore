@@ -117,3 +117,4 @@ Qwen2.5-Math/evaluation/local_model_checkpoints
 Qwen2.5-Math/evaluation/outputs
 tiny-r1/src/cache
 model
+TinyZero/model
